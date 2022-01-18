@@ -4,9 +4,9 @@ document.addEventListener('DOMContentLoaded', () => {
     let tl1 = new TimelineMax();
 
     tl1
-        .fromTo('.bg-loader', 1, {width: '100%'},{
-            width: '0%', delay: 5, ease: Expo.easeInOut
-        })
+        // .fromTo('.bg-loader', 1, {width: '100%'},{
+        //     width: '0%', delay: 5, ease: Expo.easeInOut
+        // })
 
 
         .fromTo('.bg-video', 2, 

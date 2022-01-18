@@ -868,14 +868,6 @@ header {
   width: 120%;
 }
 
-.logo-spiderman {
-  fill: transparent;
-  -webkit-transition: .7s ease;
-  transition: .7s ease;
-  -webkit-animation: logo-spiderman 12s ease infinite alternate;
-          animation: logo-spiderman 12s ease infinite alternate;
-}
-
 .logo {
   -webkit-transition: .3s ease;
   transition: .3s ease;
